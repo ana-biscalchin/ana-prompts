@@ -1,0 +1,18 @@
+<pedido>
+[Sua solicitação específica aqui]
+</pedido>
+
+<instrucoes>
+1. Primeiro, crie um plano breve descrevendo sua abordagem
+2. Explique seu raciocínio para essa abordagem
+3. Execute o plano passo a passo
+4. Valide cada saída principal em relação aos requisitos
+5. Forneça um resumo final confirmando que todos os objetivos foram alcançados
+</instrucoes>
+
+<restricoes>
+- Estilo: [formal/informal/técnico]
+- Formato: [parágrafo/lista com bullets/seções estruturadas]
+</restricoes>
+
+utilize modelos de reasoning como GPT-5-Thinking, Gemini 2.5 Pro, Grok 4 etc.
